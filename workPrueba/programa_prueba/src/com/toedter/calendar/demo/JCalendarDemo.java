@@ -111,6 +111,9 @@ public class JCalendarDemo extends JApplet implements PropertyChangeListener {
 	public void init() {
 		// Set the JGoodies Plastic 3D look and feel
 		initializeLookAndFeels();
+		
+		//Cambios Hechos por armando para probar funcionamiento de git
+		
 
 		// initialize all beans to demo
 		beans = new JComponent[6];
