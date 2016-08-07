@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;paquete_prueba_github&apos; to &apos;com.paquete_prueba_github&apos;&#x0D;&#x0A;- Original project: &apos;programa_prueba&apos;&#x0D;&#x0A;- Original element: &apos;programa_prueba/src/paquete_prueba_github&apos;&#x0D;&#x0A;- Renamed element: &apos;programa_prueba/src/com.paquete_prueba_github&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;paquete_prueba_github&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;paquete_prueba_github" name="com.paquete_prueba_github" qualified="false" references="true" stamp="1470611506695" textual="false" version="1.0"/>
+</session>

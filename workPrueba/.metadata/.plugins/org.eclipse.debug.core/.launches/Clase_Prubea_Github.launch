@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/programa_prueba/src/paquete_prueba_github/Clase_Prubea_Github.java"/>
+<listEntry value="/programa_prueba/src/com/paquete_prueba_github/Clase_Prubea_Github.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="paquete_prueba_github.Clase_Prubea_Github"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.paquete_prueba_github.Clase_Prubea_Github"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="programa_prueba"/>
 </launchConfiguration>
