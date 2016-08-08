@@ -12,7 +12,7 @@ public class Prueba {
 		//Gabriel}
 		
 		Prueba5 prueba5 = new Prueba5();
-		//hola
+		//hola soy armando
 		
 	}
 
