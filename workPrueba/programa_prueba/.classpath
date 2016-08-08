@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="C:/Users/Gabriel/Documents/GitHub/jcalendar_prueba/workPrueba/programa_prueba/lib/jcalendar-1.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Gabriel/Documents/GitHub/jcalendar_prueba/workPrueba/programa_prueba/lib/jgoodies-common-1.2.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Gabriel/Documents/GitHub/jcalendar_prueba/workPrueba/programa_prueba/lib/jgoodies-looks-2.4.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Gabriel/Documents/GitHub/jcalendar_prueba/workPrueba/programa_prueba/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
