@@ -122,12 +122,12 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_g0zU0F0xEeaU-YI7_MEoQQ" elementId="org.eclipse.ui.editorss" selectedElement="_g0zU0V0xEeaU-YI7_MEoQQ">
-      <children xsi:type="basic:PartStack" xmi:id="_g0zU0V0xEeaU-YI7_MEoQQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_BIs6AF0yEea2zuEwi-UNvQ">
+      <children xsi:type="basic:PartStack" xmi:id="_g0zU0V0xEeaU-YI7_MEoQQ" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_I5KwMF0zEea0p4SW_r3vlw">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_BIs6AF0yEea2zuEwi-UNvQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Prueba.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Prueba.java&quot; partName=&quot;Prueba.java&quot; title=&quot;Prueba.java&quot; tooltip=&quot;programa_prueba/src/com/prueba2/Prueba.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/programa_prueba/src/com/prueba2/Prueba.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;329&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+        <children xsi:type="basic:Part" xmi:id="_I5KwMF0zEea0p4SW_r3vlw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Prueba.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Prueba.java&quot; partName=&quot;Prueba.java&quot; title=&quot;Prueba.java&quot; tooltip=&quot;programa_prueba/src/com/prueba2/Prueba.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/programa_prueba/src/com/prueba2/Prueba.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;339&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
@@ -235,7 +235,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_gt40gF0xEeaU-YI7_MEoQQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3zmy4F0xEea2zuEwi-UNvQ" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_gecrmF0xEeaU-YI7_MEoQQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_0XLS0F0yEea0p4SW_r3vlw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_gecrmF0xEeaU-YI7_MEoQQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_gt40gV0xEeaU-YI7_MEoQQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -259,7 +259,7 @@
       <children xsi:type="menu:ToolBar" xmi:id="_g2tZUF0xEeaU-YI7_MEoQQ" elementId="org.eclipse.wst.ws.explorer.explorer">
         <tags>Draggable</tags>
       </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_4BIRgF0xEea2zuEwi-UNvQ" elementId="org.jboss.tools.jst.web.ui.server.actionSet">
+      <children xsi:type="menu:ToolBar" xmi:id="_4BIRgF0xEea2zuEwi-UNvQ" elementId="org.jboss.tools.jst.web.ui.server.actionSet" visible="false">
         <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_gt40g10xEeaU-YI7_MEoQQ" elementId="group.nav" toBeRendered="false">
@@ -268,7 +268,10 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_gt40hV0xEeaU-YI7_MEoQQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3zs5gF0xEea2zuEwi-UNvQ" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_gecrP10xEeaU-YI7_MEoQQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_0XOWJF0yEea0p4SW_r3vlw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_gecrP10xEeaU-YI7_MEoQQ"/>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_0jScMF0yEea0p4SW_r3vlw" elementId="org.eclipse.jdt.ui.CompilationUnitEditor" visible="false">
+        <tags>Draggable</tags>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_gt40hl0xEeaU-YI7_MEoQQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -580,12 +583,6 @@
       <parameters xmi:id="_gfWpVF0xEeaU-YI7_MEoQQ" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.debug.ui.VariableView"/>
     </bindings>
     <bindings xmi:id="_gfWpVV0xEeaU-YI7_MEoQQ" keySequence="ALT+SHIFT+Q Q" command="_gecq-l0xEeaU-YI7_MEoQQ"/>
-    <bindings xmi:id="_3TlPAF0xEea2zuEwi-UNvQ" keySequence="ALT+SHIFT+D D" command="_3SlJcV0xEea2zuEwi-UNvQ"/>
-    <bindings xmi:id="_3Ttx4F0xEea2zuEwi-UNvQ" keySequence="CTRL+R" command="_3SlJc10xEea2zuEwi-UNvQ"/>
-    <bindings xmi:id="_3T270F0xEea2zuEwi-UNvQ" keySequence="CTRL+SHIFT+M" command="_3SkiYV0xEea2zuEwi-UNvQ"/>
-    <bindings xmi:id="_3T70UF0xEea2zuEwi-UNvQ" keySequence="ALT+SHIFT+Y G" command="_3SkiYF0xEea2zuEwi-UNvQ"/>
-    <bindings xmi:id="_3T8bYF0xEea2zuEwi-UNvQ" keySequence="ALT+SHIFT+Y F" command="_3SkiYl0xEea2zuEwi-UNvQ"/>
-    <bindings xmi:id="_3T-QkF0xEea2zuEwi-UNvQ" keySequence="ALT+SHIFT+Y B" command="_3SlJcl0xEea2zuEwi-UNvQ"/>
   </bindingTables>
   <bindingTables xmi:id="_ge-OzV0xEeaU-YI7_MEoQQ" elementId="org.eclipse.datatools.sqltools.SQLEditorScope" bindingContext="_geiw9F0xEeaU-YI7_MEoQQ">
     <bindings xmi:id="_ge-Ozl0xEeaU-YI7_MEoQQ" keySequence="ALT+CTRL+D" command="_geWkn10xEeaU-YI7_MEoQQ"/>
